@@ -13,9 +13,9 @@
     "axios": "0.18.0"
   },
   "scripts": {
-    "start": "react-scripts --open-ssl-legacy-provider start",
-    "build": "react-scripts --open-ssl-legacy-provider build",
-    "test": "react-scripts --open-ssl-legacy-provider test",
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts --openssl-legacy-provider build",
+    "test": "react-scripts --openssl-legacy-provider test",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
